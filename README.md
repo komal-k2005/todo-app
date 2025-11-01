@@ -27,7 +27,7 @@ No dependencies required! Just a modern web browser.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/komal-k2005/todo-app.git
 ```
 
 2. Navigate to the project directory:
@@ -49,7 +49,7 @@ cd todo-app
      php -S localhost:8000
      ```
 
-4. Visit `http://localhost:8000` in your browser
+4. Visit ` https://komal-k2005.github.io/todo-app/` in your browser
 
 ## 📖 Usage
 
@@ -79,7 +79,7 @@ todo-app/
 ├── style.css       # Styling and responsive design
 ├── script.js       # Application logic and localStorage handling
 ├── README.md       # Project documentation
-└── .gitignore      # Git ignore rules
+
 ```
 
 ## 🛠️ Technologies Used
@@ -109,13 +109,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/todo-app/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/komal-k2005/todo-app/issues).
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@komal-k2005](https://github.com/komal-k2005)
+- Email:  hellokomal@gmail.com
 
 ## 🙏 Acknowledgments
 
